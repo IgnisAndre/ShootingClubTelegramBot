@@ -1,0 +1,30 @@
+++FIX YEAR IN UPDATE
+! --add save-load for DB #https://github.com/python-telegram-bot/python-telegram-bot/wiki/Code-snippets#post-a-file-from-disk
+++added db-dump function -v.123
+++add ROLE tables -v.145
+++implement ROLE into process -v.152
+  --add webhooks?
+  --add test/prod switch
+++fix update bug -v.60
+++add ask developer option -v.66
+++add reply to ask developer -v.174
+  --add keyboard
+++add SQL direct -v.84
+++add developer notification -v.68
+++improve /help -v61
+++add antiduplicate logic -v.75
+++add auto init on start -v.101
+++add delete func -v.75
+++debug DELETE -v.100
+++debug update -v.100
+++debug create -v.101
+++debug show -v111
+    ??bug - show shows nothing till 03:00 and after 23. Perhaps, because of timezone delta
+++fix capitalization in update-v.112
+++add history of changes -v.128
+  --add logging
+  --ass DB fill func
+++add faq option -v137
+  --add html markup?
+++add type of occured errors -v.140
+++fix echo() -v.152
